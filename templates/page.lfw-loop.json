@@ -1,1 +1,18 @@
-
+{
+  "sections": {
+    "main": {
+      "type": "main-page"
+    },
+    "lfw_hero": {
+      "type": "lfw-loop-hero",
+      "settings": {
+        "title": "WE CURATE YOUR GLOBAL PRESTIGE",
+        "subtitle": "不止于签证，更是您在伦敦时尚之巅的入场券。"
+      }
+    }
+  ,
+  "order": [
+    "lfw_hero",
+    "main"
+  ]
+}
